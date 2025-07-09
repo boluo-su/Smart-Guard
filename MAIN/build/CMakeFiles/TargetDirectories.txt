@@ -1,0 +1,3 @@
+/home/su/桌面/嵌赛久久派/MAIN/build/CMakeFiles/rebuild_cache.dir
+/home/su/桌面/嵌赛久久派/MAIN/build/CMakeFiles/edit_cache.dir
+/home/su/桌面/嵌赛久久派/MAIN/build/CMakeFiles/main.dir

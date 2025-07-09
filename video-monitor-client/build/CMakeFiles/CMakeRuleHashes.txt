@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+44fcc8f4be2f4e170c430526b5ffb86e CMakeFiles/video-monitor-client_autogen

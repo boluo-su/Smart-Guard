@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/su/桌面/客户端/video-monitor-client/src/device/DeviceManager.cpp
+DeviceManager.hpp
+/home/su/桌面/客户端/video-monitor-client/src/device/DeviceManager.hpp
+vector
+-
+string
+-
+
+/home/su/桌面/客户端/video-monitor-client/src/device/DeviceManager.hpp
+vector
+-
+string
+-
+

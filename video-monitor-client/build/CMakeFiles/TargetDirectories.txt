@@ -1,0 +1,4 @@
+/home/su/桌面/客户端/video-monitor-client/build/CMakeFiles/rebuild_cache.dir
+/home/su/桌面/客户端/video-monitor-client/build/CMakeFiles/edit_cache.dir
+/home/su/桌面/客户端/video-monitor-client/build/CMakeFiles/video-monitor-client.dir
+/home/su/桌面/客户端/video-monitor-client/build/CMakeFiles/video-monitor-client_autogen.dir
